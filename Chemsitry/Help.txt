@@ -1,0 +1,7 @@
+Please don't freak out if chrome opens up in background
+I had to use a version of selenium where headless mode isn't bug-free
+If the compound shows wrong structure, hover over the chrome in your taskbar.
+If you are able to see the correct structure, click on the search icon one more time
+
+
+Again, this used to work when selenium was actually good. Now it is full of bugs. I think.
